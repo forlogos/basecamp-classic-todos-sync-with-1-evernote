@@ -9,7 +9,8 @@ Sync all Basecamp (classic) todos from 1 project with 1 note in Evernote
 1. Combine the two, DONE!
 
 # Notes
-## Basecamp API https://github.com/basecamp/basecamp-classic-api
+## Basecamp API
+1. https://github.com/basecamp/basecamp-classic-api
 
 ##Evernote API
 1. https://dev.evernote.com/doc/
